@@ -46,4 +46,3 @@ namespace Wifi
         }
     }
 }
-//lvItem.SubItems.Add(Regex.Match(ap.GetProfileXML(), "(?<=<authentication>).*(?=<\\/authentication>)").Value);
